@@ -1,1200 +1,735 @@
-ALURAFLIX
-ALURAFLIX
-
-
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha
-<header>ALURAFLIX</header>
-
-
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha
-<header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-#homem-aranha
-<header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-<header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+html:5
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
-
-    <header>ALURAFLIX</header>
     
-    
-    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-    <p>#homem-aranha</p>
-    
-    
-    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    
-    
-    
-    <body>
-        ALURAFLIX
-        ALURAFLIX
-
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha
-<header>ALURAFLIX</header>
-
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha
-<header>ALURAFLIX</header>
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-#homem-aranha
-<header>ALURAFLIX</header>
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-<header>ALURAFLIX</header>
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<body>
-    <header>ALURAFLIX</header>
-
-    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-    <p>#homem-aranha</p>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 </body>
-element.style {
-
-}
-body {
-display: block;
-margin: 8px;
-
-}
-element.style {
-    background: black;
-  }
-  body {
-  display: block;
-  margin: 8px;
-  
-  }
-  element.style {
-    background: black;
-      color: white;
-  }
-  body {
-    color: white;
-    background: black;
-}
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<head>
-    <link rel="stylesheet" href="styles.css">
-    <title>Aluraflix</title>
-</head>
-<div>
-    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-    <p>#homem-aranha</p>
-    </div>
-    <html lang="pt-br">
 </html>
-body {
-
-}
-body {
-    color: white;
-}
-body {
-    color: white;
-    background: black;
-}
-<head>
-
-</head>
-
-<body>
-    <header>ALURAFLIX</header>
-
-
-    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-    <p>#homem-aranha</p>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</body>
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<head>
-    <link rel="stylesheet" href="styles.css">
-    <title>Aluraflix</title>
-    </head>
-    <div>
-        <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-        <p>#homem-aranha</p>
-        </div>
-        <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-            <head>
-                <link rel="stylesheet" href="styles.css">
-                <title>Aluraflix</title>
-            </head>
-            
-            <body>
-                <header>ALURAFLIX</header>
-            
-                <div>
-                    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-                    <p>#homem-aranha</p>
-                </div>
-            
-                <div>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
-            
-            </body>
-            <section>
-                <div>
-                  <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-                  <p>#homem-aranha</p>
-                </div>
-              
-                <div>
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-                      title="YouTube video player" frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
-              </section>
-              <html lang="pt-BR">
-<head>
-    <link rel="stylesheet" href="styles.css">
-    <title>Aluraflix</title>
-</head>
-
-<body>
-    <header>ALURAFLIX</header>
-
-    <section>
-        <div>
-            <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-            <p>#homem-aranha</p>
-        </div>
-
-        <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-    </section>
-
-</body>
-
-</html>
-element.style {
-    border: solid;
- }
- element.style {
-    border: solid 1px;
- }
- element.style {
-    border: solid 2px white;
- }
- body {
-    color: white;
-    background: black;
-}
-
-header {
-    border: solid 2px white;
-}
-/* código omitido */
-
-header {
-    border: solid 2px rgb(42, 122, 228);
-}
-/* código omitido */
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-/* código omitido */
-/* código omitido */
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    margin: 20px;
-}
-/* código omitido */
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-}
-/* código omitido */
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-body {
-    color: white;
-    background: black;
-}
-
-header {
-
-}
-header {
-    border: solid 2px white;
-}
-header {
-    border: solid 2px rgb(42, 122, 228);
-}
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-}
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-}
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-element.style {
-    background: red;
-}
-
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-
-section {
-    background: rgb(184,156,213);
-}
-element.style {
-}
-section {
-    background: rgb(184, 156, 213);
-}
-
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
-element.style {
-    margin: 80px;
-}
-section {
-    background: rgb(184, 156, 213);
-}
-
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
-element.style {
-    padding: 80px;
-}
-section {
-    background: rgb(184, 156, 213);
-}
-
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
-element.style {
-    padding-bottom: 80px;
-}
-section {
-    background: rgb(184, 156, 213);
-}
-
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-}
-element.style {
-    padding-bottom: 80px;
-}
-section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-section {
-    ~~display: block;~~
-    unicode-bidi: isolate;
-}
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-/* código omitido */
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-div {
-    margin-right: 20px;
-}
-<!-- código omitido -->
-
-<section>
-    <div class="chamada-texto">
-        <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-        <p>#homem-aranha</p>
-    </div>
-</section>
-
-<!-- código omitido -->
-/* código omitido */
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-.chamada-texto {
-    margin-right: 20px;
-}
-/* código omitido */
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-.chamada-texto {
-    margin-right: 5%;
-}
-section {
-    background: rgb(184, 156, 213);
-}
-section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-}
-section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-}
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-}
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-div {
-    margin-right: 20px;
-}
-<section>
-    <div class="chamada-texto">
-        <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-        <p>#homem-aranha</p>
-    </div>
-
-    <!-- código omitido -->
-</section>
-.chamada-texto {
-    margin-right: 20px;
-}
-/* código omitido */
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-.chamada-texto {
-    margin-right: 5%;
-}
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <link rel="stylesheet" href="styles.css">
-    <title>Aluraflix</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
 </head>
-
 <body>
-    <header>ALURAFLIX</header>
+    <main>
 
-    <section>
-        <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-            <p>#homem-aranha</p>
-        </div>
 
-        <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-    </section>
-
-</body>
-
-</html>
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
-
-section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-.chamada-texto {
-    margin-right: 5%;
-}
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
-font-family: 'Chakra Petch', sans-serif
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-}
-element.style {
-    font-size: 40px;
-}
-h1 { 
-    font-size: 40px;
-}
-<div class="chamada-texto">
-    <h1>ATRAVÉS DO ARANHAVERSO</h1>
-    <p>#homem-aranha</p>
-</div>
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link
-  href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
-  rel="stylesheet"
-/>
-<head>
-    <link rel="stylesheet" href="styles.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
-      rel="stylesheet"
-    />
-    <title>Aluraflix</title>
-</head>
-font-family: "Chakra Petch", sans-serif;
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-  }
-  h1 {
-    font-size: 40px;
-  }
-  p {
-    font-size: 20px;
-  }
-  <div class="chamada-texto">
-    <h1>ATRAVÉS DO ARANHAVERSO</h1>
-    <p>#homem-aranha</p>
-  </div>
-  <html lang="pt-BR">
-  <head>
-    <link rel="stylesheet" href="styles.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
-      rel="stylesheet"
-    />
-    <title>Aluraflix</title>
-  </head>
-
-  <body>
-    <header>ALURAFLIX</header>
-
-    <section>
-      <div class="chamada-texto">
-        <h1>ATRAVÉS DO ARANHAVERSO</h1>
-        <p>#homem-aranha</p>
-      </div>
-
-      <div>
-        <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-      </div>
-    </section>
-  </body>
-</html>
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-  }
-  
-  header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-  }
-  
-  section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .chamada-texto {
-    margin-right: 5%;
-  }
-  
-  h1 {
-    font-size: 40px;
-  }
-  
-  p {
-    font-size: 20px;
-  }
-  <body>
-    <h1>Meu projeto escolar</h1>
-    <p>Tema: programação</p>
-  </body>
-  <h1>Jogos de tabuleiro</h1>
-<p>Dama</p>
-<p>Xadrez</p>
-<!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
+    </main>
         
-    </div>
-</section>
-
-<!-- código omitido -->
- <!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
-        <img src="" />
-    </div>
-</section>
-
-<!-- código omitido -->
-https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg
-<!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
-        <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-    </div>
-</section>
-
-<!-- código omitido -->
- <!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-    </div>
-</section>
-
-<!-- código omitido -->
-/* código omitido */
-
-img {
-    height: 100px;
-}
-/* código omitido */
-
-img {
-    height: 200px;
-}
-<a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-    <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-</a>
-<!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-    </div>
-</section>
-
-<!-- código omitido -->
- <!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-            <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-            <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-            <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-            <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
-        </a>
-    </div>
-</section>
-
-<!-- código omitido -->
- <!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-
-<!-- código omitido -->
-/* código omitido */
-
-.categoria-videos {
-    display: flex;
-}
-
-/* código omitido */
-/* código omitido */
-
-.categoria-videos {
-    display: flex;
-    overflow-x: auto;
-}
-
-/* código omitido */
-/* código omitido */
-
-.categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-}
-
-/* código omitido */
-/* código omitido */
-
-.categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-}
-
-section {
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-/* código omitido */
-<!-- código omitido -->
-
-<header>ALURAFLIX</header>
-
-<section class="chamada">
-    <div class="chamada-texto">
-
-<!-- código omitido -->
-/* código omitido */
-
-.chamada {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-/* código omitido */
-<!-- código omitido -->
-
-<section class="categoria">
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-
-<!-- código omitido -->
-/* código omitido */
-
-.categoria {
-    padding-left: 20px;
-    padding-right: 20px;
-}
-<!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div></div>
-  </section>
-  
-  <!-- código omitido -->
-  https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg
-  <!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div>
-      <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-        <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-      </a>
-      <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-        <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
-      </a>
-      <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-        <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
-      </a>
-      <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-        <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
-      </a>
-      <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-        <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
-      </a>
-    </div>
-  </section>
-  
-  <!-- código omitido -->
-  img {
-    height: 200px;
-  }
-  <!-- código omitido -->
-
-<section>
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-      <!-- código omitido -->
-    </div>
-  </section>
-  .categoria-videos {
-    display: flex;
-  }
-  .categoria-videos {
-    display: flex;
-    overflow-x: auto;
-  }
-  .categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-  }
-  .categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-  }
-  
-  section {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-  
-  /* código omitido */
-  
-  section {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  <!-- código omitido -->
-
-<header>ALURAFLIX</header>
-
-<section class="chamada">
-  <div class="chamada-texto">
-    <!-- código omitido -->
-  </div>
-</section>
-.chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-  <!-- código omitido -->
-
-<section class="categoria">
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-      <!-- código omitido -->
-    </div>
-  </section>
-  /* código omitido */
-
-.categoria {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-<section class="categoria">
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-    </div>
-</section>
-<body>
-    <div> 1 </div>
-    <div> 2 </div>
-    <div> 3 </div>
+        
+        
+        
 </body>
-/* código escondido */
-
-.categoria-videos img {
-    opacity 0.5;
-}
-/* código escondido */
-
-p {
-    font-size: 20px;
-}
-
-.categoria-videos {
-    
-}
-
-/* código escondido */
-
-.categoria-videos img {
-    opacity 0.5;
-    height: 200px
-}
-/* código escondido */
-
-.categoria-videos img {
-    opacity 0.5;
-    height: 200px
-}
-
-.categoria-videos img:hover {
-    opacity 1.0;
-}
-/* código escondido */
-
-.categoria-videos img:hover {
-    opacity 1.0;
-}
-
-.categoria h2 {
-    color: rgb(42, 122, 228);
-}
-element.style {
-    margin-bottom: 50px;
-}
-
-/* código escondido */
-element.style {
-    margin-bottom: 50px;
-    margin-top: 50px;
-}
-
-/* código escondido */
-element.style {
-    margin-bottom: 100px;
-    margin-top: 50px;
-}
-
-/* código escondido */
-element.style {
-    margin-bottom: 50px;
-}
-
-/* código escondido */
-/* código escondido */
-
-.categoria {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 50px;
-}
-
-/* código escondido */
-body {
-    color: white;
-    background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
-}
-
-/* código escondido */
-/* código omitido */
-
-.categoria-videos img {
-
-}
-.categoria-videos img {
-    opacity: 0.5;
-}
-.categoria-videos img {
-    opacity: 0.5;
-    height: 200px;
-}
-.categoria-videos img:hover {
-
-}
-.categoria-videos img {
-    opacity: 0.5;
-    height: 200px
-}
-
-.categoria-videos img:hover {
-    opacity: 1.0;
-}
-.categoria-videos img:hover {
-    opacity: 1.0;
-    border: 1px solid green;
-}
-.categoria-videos img:hover {
-    opacity: 1.0;
-}
-
-.categoria h2 {
-
-}
-.categoria h2 {
-    color: rgb(42, 122, 228);
-}
-.categoria {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 50px;
-  }
-  body {
-    color: white;
-    background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
-  }
-  <section class="categoria">
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-        <img src="video1.jpg" alt="Vídeo 1">
-        <img src="video2.jpg" alt="Vídeo 2">
-        <img src="video3.jpg" alt="Vídeo 3">
-    </div>
-</section>
-.portfolio img {
-    opacity: 0.5;
-}
-.portfolio img:hover {
-    opacity: 1.0;
-}
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
 <head>
-    <!-- Código omitido -->
-
-    <title>Guiminamflix</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
 </head>
+<body>
+    <main>
+          <div>
+             <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+          </div>
+    </main>
+        
+        
+        
+        
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
+</head>
+<body>
+    <main>
+          <div>
+             <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+                 <button> Rio de Janeiro </button>
+          </div>
+    </main>
+        
+        
+        
+        
+</body>
+</html>
+<button class="btn-proximo">Rio de Janeiro</button>
+<button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+<button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+<button class="btn-proximo" data-proximo="2">Pernambuco</button>
+<div class="passo ativo" id="passo-0">
+    <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+    <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+    <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+</div>
+<main>
+    <div class="passo ativo" id="passo-0">
+        <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+        <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+        <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+    </div>
+    <div class="passo" id="passo-1">
+        <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
+        <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+        <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+    </div>
+    </main>
+    html:5
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
+</head>
+<body>
+    <main>
+
+
+    </main>
+        
+        
+        
+        
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
+</head>
+<body>
+    <main>
+          <div>
+             <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+          </div>
+    </main>
+        
+        
+        
+        
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
+</head>
+<body>
+    <main>
+          <div>
+             <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+       	 <button> Rio de Janeiro </button>
+          </div>
+    </main>
+        
+        
+        
+        
+</body>
+</html>
+<button class="btn-proximo">Rio de Janeiro</button>
+<button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+<button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+<button class="btn-proximo" data-proximo="2">Pernambuco</button>
+<div class="passo ativo" id="passo-0">
+    <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+    <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+    <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+</div>
+<main>
+    <div class="passo ativo" id="passo-0">
+        <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+        <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+        <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+    </div>
+    <div class="passo" id="passo-1">
+        <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
+        <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+        <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+    </div>
+    </main>
+    http://127.0.0.1:3000/index.html
+    <!-- código omitido -->
+
+<head>
+    <!-- código omitido -->
+        
+        <link rel="stylesheet" href="style.css">
+        
+    <!-- código omitido -->
+    </head>
+    
+    <!-- código omitido -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <!-- código omitido -->
+
+<head>
+    <!-- código omitido -->
+        
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+        
+    <!-- código omitido -->
+    </head>
+    
+    <!-- código omitido -->
+    /* código omitido */
+
+    body {
+        background-color: #1D4221;
+    }
+    /* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+}
+font-family: "Bai Jamjuree", sans-serif;
+/* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+/* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+/* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+/* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+<!-- código omitido -->
+
+<head>
+    <!-- código omitido -->
+        
+        <link rel="stylesheet" href="style.css">
+        
+    <!-- código omitido -->
+    </head>
+    
+    <!-- código omitido -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <!-- código omitido -->
+
+<head>
+    <!-- código omitido -->
+        
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+        
+    <!-- código omitido -->
+    </head>
+    
+    <!-- código omitido -->
+     
+body {
+    background-color: #1D4221;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+}
+/* código omitido */
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+body {
+    color: _____;
+    font-family: _____;
+    display: _____;
+    height: _____;
+}
+body {
+    font-family: 'Arial', sans-serif;
+  }
+
+  
+h1 {
+    color: #FF6347; /* Cor do texto */
+  }
+  
+  body {
+    background-color: #E6E6FA; /* Cor de fundo */
+  }
+  <!-- código omitido -->
+
+<main>
+    <div class="passo ativo" id="passo-0">
+
+<!-- código omitido -->
+const avanca =
+const avanca = document.querySelectorAll('.btn-proximo');
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach()
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener()
+
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+    
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute()
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual - document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual - document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
+        
+        atual.classList.remove('ativo');
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
+
+        atual.classList.remove('ativo');
+        document.getElementById(proximoPasso).classList.add('ativo');
+    })
+})
+<!-- código omitido -->
+
+<script src="script.js"></script>
+</body>
+</html>
+<!-- código omitido -->
+
+<main>
+    <div class="passo ativo" id="passo-0">
+
+<!-- código omitido -->
+const avanca =
+const avanca = document.querySelectorAll('.btn-proximo');
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach()
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener()
+
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+    
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute()
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
+     })
+})
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
+
+        atual.classList.remove('ativo');
+        document.getElementById(proximoPasso).classList.add('ativo');
+    })
+})
+<!-- código omitido -->
+
+<script src="script.js"></script>
+</body>
+</html>
+let botao = document.querySelector('.meu-botao');
+let paragrafos = document.querySelectorAll('p');
+
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+<div class="passo ativo" id="passo-0">
+    <img src="cenario-passo0.png" alt="">
+    <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+    <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+    <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+</div>
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+<div class="passo ativo" id="passo-0">
+    <img src="cenario-passo0.png" alt="">
+    <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+    <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+    <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+</div>
+.passo {
+    display: none;
+}
+main {
+    max-width: 90%;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img {
+    max-width: 90%;
+}
+<main>
+    <div class="passo ativo" id="passo-0">
+        <img src="img/cenario-passo0.png" alt="">
+        <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+        <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+        <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+    </div>
+    <div class="passo" id="passo-1">
+        <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
+        <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+        <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+    </div>
+    <div class="passo" id="passo-2">
+        <p>Em Pernambuco, você visita a histórica cidade de Olinda. Na carta, uma das pistas indica que para localizar a entrada para a cidade perdida você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você começa?</p>
+        <button class="btn-proximo" data-proximo="5">Investigar as igrejas antigas</button>
+        <button class="btn-proximo" data-proximo="6">Explorar as praias próximas</button>
+    </div>
+    main {
+        max-width: 90%;
+    }
+    main {
+        text-align: center;
+        max-width: 90%;
+    }
+    img {
+        max-width: 90%;
+    }
+    <!-- código omitido →
 
 <body>
-    <header>GUIMINAMFLIX</header>
+    <main>
+        <div class="passo ativo" id="passo-0">
+            <img src="img/cenario-passo0.png" alt="">
+            <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+            <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
+            <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+            <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+        </div>
+        <div class="passo" id="passo-2">
+ 
+        </div>
+    </main>
 
-    <!-- Código omitido -->
-</body>
+<!-- código omitido -->
+<main>
+    <div class="passo ativo" id="passo-0">
+        <img src="img/cenario-passo0.png" alt="">
+        <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+        <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+        <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+    </div>
+    <div class="passo" id="passo-1">
+        <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
+        <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+        <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+    </div>
+    <div class="passo" id="passo-2">
+        <p>Em Pernambuco, você visita a histórica cidade de Olinda. Na carta, uma das pistas indica que para localizar a entrada para a cidade perdida você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você começa?</p>
+        <button class="btn-proximo" data-proximo="5">Investigar as igrejas antigas</button>
+        <button class="btn-proximo" data-proximo="6">Explorar as praias próximas</button>
+    </div>
+    <main>
+        <div class="passo ativo" id="passo-0">
+            <img src="cenario-passo0.png" alt="">
+            <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade
+                perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para
+                encontrar essa cidade e eu decidi segui-las!</p>
+            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+            <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira
+                pista.</p>
+            <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+            <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+        </div>
+        <div class="passo" id="passo-2">
+            <p>Em Pernambuco, você visita a histórica cidade de Olinda. Na carta, uma das pistas indica que para localizar a
+                entrada para a cidade perdida você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por
+                qual você começa?</p>
+            <button class="btn-proximo" data-proximo="5">Investigar as igrejas antigas</button>
+            <button class="btn-proximo" data-proximo="6">Explorar as praias próximas</button>
+        </div>
+        <div class="passo" id="passo-3">
+            <p>No topo do Pico da Tijuca, você encontra uma antiga inscrição apontando que a próxima pista está localizada
+                no Amazonas.</p>
+            <button class="btn-proximo" data-proximo="7">Seguir para o Amazonas</button>
+        </div>
+    
+        <div class="passo" id="passo-4">
+            <p>Você decide que a aventura é grande demais e volta para casa, mas sempre se pergunta o que teria encontrado.
+            </p>
+        </div>
+    
+        <div class="passo" id="passo-5">
+            <p>Nas igrejas de Olinda, você descobre um mapa antigo escondido atrás de um altar, apontando que a próxima
+                pista está no Amazonas.</p>
+            <button class="btn-proximo" data-proximo="7">Viajar para o Amazonas</button>
+        </div>
+    
+        <div class="passo" id="passo-6">
+            <p>Explorando as praias, você encontra uma caverna escondida, mas ela leva a um beco sem saída.</p>
+            <button class="btn-proximo" data-proximo="8">Voltar e explorar as igrejas</button>
+        </div>
+    
+        <div class="passo" id="passo-7">
+            <p>No Amazonas, a busca pela cidade perdida se intensifica. Você se depara com um rio bifurcado.</p>
+            <button class="btn-proximo" data-proximo="9">Seguir pelo rio à esquerda</button>
+            <button class="btn-proximo" data-proximo="10">Seguir pelo rio à direita</button>
+        </div>
+    
+        <div class="passo" id="passo-8">
+            <p>De volta às igrejas, você finalmente encontra o mapa antigo. Agora, para o Amazonas!</p>
+            <button class="btn-proximo" data-proximo="7">Seguir para o Amazonas</button>
+        </div>
+    
+        <div class="passo" id="passo-9">
+            <p>O rio à esquerda leva você a uma cachoeira escondida com inscrições antigas que revelam a entrada da cidade
+                perdida.</p>
+            <button class="btn-proximo" data-proximo="11">Explorar a cidade perdida</button>
+        </div>
+    
+        <div class="passo" id="passo-10">
+            <p>O rio à direita termina em uma área pantanosa. Apesar de belas vistas, não há sinais da cidade perdida aqui.
+            </p>
+            <button class="btn-proximo" data-proximo="12">Retornar e tentar o outro rio</button>
+        </div>
+    
+        <div class="passo" id="passo-11">
+            <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar este
+                lugar</p>
+        </div>
+    
+        <div class="passo" id="passo-12">
+            <p>Retornando e escolhendo o rio à esquerda, você finalmente encontra a cachoeira escondida e as inscrições que
+                levam à cidade perdida.</p>
+            <button class="btn-proximo" data-proximo="11">Explorar a cidade perdida</button>
+        </div>
+    </main>
+    <div class="passo" id="passo-4">
+        <img src="img/cenario-passo4-voltar-casa.png" alt="imagem voltando para casa e desitindo da aventura">
+        <p>Você decide que a aventura é grande demais e volta para casa, mas sempre se pergunta o que teria encontrado.</p>
+</div>
+<div class="passo" id="passo-11">
+    <img src="img/cenario-passo11-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">
+    <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar este lugar</p>
+    </div>
+    <div class="passo ativo" id="passo-0">
+        <img src="img/cenario-passo0.png" alt="">
+        <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+        <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+        <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+</div>
+<div class=“frases” id=“musica”> 
+    <p>Histórias nossas histórias, dias de luta, dias de glória</p> 
+   <button class="botao-proximo-trecho" data-proximo-trecho="10">Musicas de RAP</button>
+</div>
+<div class="passo" id="passo-11">
+    <img src="img/cenario-passo11-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">
+    <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar
+            este lugar</p>
+</div>
+<div class="passo" id="passo-11">
+    <img src="img/cenario-passo11-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">
+    <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar
+            este lugar</p>
+</div>
